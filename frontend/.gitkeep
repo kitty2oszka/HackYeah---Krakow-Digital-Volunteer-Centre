@@ -1,0 +1,26 @@
+frontend/
+├─ public/
+│  ├─ assets/
+│  │   ├─ logo.svg
+│  │   └─ icons/...
+│
+├─ src/
+│  ├─ components/
+│  │   ├─ Navbar.jsx
+│  │   ├─ OfferCard.jsx
+│  │   ├─ ChatDemo.jsx
+│  │   ├─ NotificationsDemo.jsx
+│  │   ├─ CalendarView.jsx
+│  │   └─ MapView.jsx
+│  │
+│  ├─ pages/
+│  │   ├─ Home.jsx
+│  │   ├─ Offers.jsx
+│  │   ├─ Dashboard.jsx
+│  │   └─ About.jsx
+│  │
+│  ├─ data.js
+│  ├─ App.jsx
+│  └─ main.jsx
+│
+└─ package.json
